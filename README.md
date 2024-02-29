@@ -1,6 +1,6 @@
 # Calculator
 Конфигурация проекта через сайт https://start.spring.io/
-![image](https://github.com/okatsuki-Pain/Calculator/assets/120706381/12e8e2c3-b5f2-4c3b-87de-791bd161ea39)
+![img align = 'center'](https://github.com/okatsuki-Pain/Calculator/assets/120706381/12e8e2c3-b5f2-4c3b-87de-791bd161ea39)
 Класс CalcController будет обрабатывать HTTP запросы. Метод “plus” выполняет операцию сложения указанных чисел. Метод “minus” выполняет операцию вычитания указанных чисел.
 ![image](https://github.com/okatsuki-Pain/Calculator/assets/120706381/840f72be-1012-4a2f-80f0-4e70a9b0b498)
 Сумма:
